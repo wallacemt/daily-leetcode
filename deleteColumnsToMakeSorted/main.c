@@ -6,4 +6,4 @@ int minDeletionSize(char ** strs, int strsSize){
                 ++remove;
                 break;
             }
-    return remove;
+    return remove;}
