@@ -36,5 +36,5 @@ code .
 ### 4. Or execute whatever you want in console
 
 ```
-gcc -o sortMatrixByDiagonals main.c
+gcc -o /solutions/sortMatrixByDiagonals main.c
 ```
